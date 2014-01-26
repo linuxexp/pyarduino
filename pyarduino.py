@@ -18,6 +18,8 @@
 	
 '''
 
+#TODO: add support for SHIFT_OUT SHIFT_IN PULSE_IN
+
 #!/usr/bin/python
 import serial
 import time
